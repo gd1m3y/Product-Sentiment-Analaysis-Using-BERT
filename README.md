@@ -10,7 +10,7 @@ This Project Aims to Demonstrate the Text Classification.
 ## Work Flow
 The work Flow of the Project - 
 
-![img](https://github.com/gd1m3y/Text-Summarizer-Using-Elmo/blob/master/extractive.png)
+![img](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/workflow.png)
 
 * Preprocessing - Using regular Expressions and many other libraries to remove irregularities in the data such as punctuations,links,numbers which doesnt have any specific effect on the model rather may result in abnormal results.
 * Sentence-Tokenization - Tokenization is the process of converting text into tokens so that it can be understood by the model.
