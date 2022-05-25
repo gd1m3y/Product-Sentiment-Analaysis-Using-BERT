@@ -16,7 +16,7 @@ The work Flow of the Project -
 * Sentence-Tokenization - Tokenization is the process of converting text into tokens so that it can be understood by the model.
 * Distill-BERT - we use our model to classify the text into either positive or negative sentences.
 
-The notebook Demonstrates 
+
 ## BERT
 BERT stands for Bidirectional Encoder Representations from Transformers. It is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context. As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of NLP tasks
 
