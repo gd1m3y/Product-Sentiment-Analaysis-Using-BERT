@@ -25,8 +25,7 @@ BERT stands for Bidirectional Encoder Representations from Transformers. It is d
 
 BERT is based on the Transformer architecture.
 ![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/bert_emnedding.png)
-
-                        Tokenization in bert
+Tokenization in bert
 
 ## Data Set
 The data set used is boat amazon reviews dataset which is uploaded in the repo.
