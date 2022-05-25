@@ -34,13 +34,13 @@ The data set used is boat amazon reviews dataset which is uploaded in the repo.
 The DistilBERT model was proposed in the blog post Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT, and the paper DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. DistilBERT is a small, fast, cheap and light Transformer model trained by distilling BERT base. It has 40% less parameters than bert-base-uncased, runs 60% faster while preserving over 95% of BERT’s performances as measured on the GLUE language understanding benchmark.
 ## Results 
 ### positive word cloud
-![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/bert_emnedding.png)
+![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/positive.png)
 ### positive topics
-![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/bert_emnedding.png)
+![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/negative.png)
 ### negative word cloud 
-![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/bert_emnedding.png)
+![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/pos_topics.png)
 ### negative topics
-![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/09/bert_emnedding.png)
+![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/neg_topics.png)
 ## Technology Stack
 
 * Spacy - A NLP Library used for variety of tasks Such as Named entity recognition
