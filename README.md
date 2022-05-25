@@ -36,9 +36,9 @@ The DistilBERT model was proposed in the blog post Smaller, faster, cheaper, lig
 ### positive word cloud
 ![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/positive.png)
 ### positive topics
-![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/negative.png)
-### negative word cloud 
 ![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/pos_topics.png)
+### negative word cloud 
+![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/negtive.png)
 ### negative topics
 ![image](https://github.com/gd1m3y/Product-Sentiment-Analaysis-Using-BERT/blob/main/neg_topics.png)
 ## Technology Stack
